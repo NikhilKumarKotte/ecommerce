@@ -1,0 +1,4 @@
+order_id,username,customer_name,email,order_date,items_summary,total_items,subtotal,discount,shipping,tax,total_amount,shipping_address,payment_method,status
+ORD-7192,customer,Alex Mercer,alex.mercer@example.com,2026-09-21 11:26,"Paxcoo 1mm Elastic String (x2), Zenacolor 20 Fabric Markers (x1)",3,21.97,3.3,0.0,1.31,19.98,"742 Evergreen Terrace, Springfield, OR 97477",Credit Card (•••• 4242),Delivered
+ORD-8451,customer,Alex Mercer,alex.mercer@example.com,2026-09-23 13:26,"DIY Tie Dye Kit for Kids & Adults (x1), Tulip One-Step Tie-Dye Party (x1)",2,38.33,3.83,5.0,2.76,42.26,"742 Evergreen Terrace, Springfield, OR 97477",PayPal (alex.mercer@example.com),Shipped
+ORD-9304,user1,Jordan Lee,jordan.lee@example.com,2026-09-24 09:26,Duufin 120 Pieces Acrylic Keychain Blanks Set (x2),2,19.98,0.0,5.0,1.4,26.38,"100 Pine Crest Way, Seattle, WA 98101",Apple Pay,Processing
